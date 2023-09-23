@@ -1,0 +1,18 @@
+Change banner to scaled down ASCII logo of Tyrone Biggums
+Add additional keyspaces and naming conventions not listed
+Create standalone dictionary for EEBrightBox-XXXXXX - [3 word with hyphens]
+incorporate a feature for automatic conversion from .cap or .pcap files to hc22000
+
+Add or correct the following keyspaces for maximum cracking efficiency:
+FRITZ!Box Fon WLAN #### - [0-9] Len: 16 - (With current cracking speeds this may be unecessary)
+Virgin Media [abcdefghjklmnpqrstuvwxyz] Length 8 i and o omitted.
+VMXXXXXXX-2G [abcdefghjklmnpqrstuvwxyz] Length 8 i and o omitted.
+VMXXXXXXX-5G [abcdefghjklmnpqrstuvwxyz] Length 8 i and o omitted.
+VMXXXXXXX [0-9a-zA-Z] Len: 12
+Keenetic-XXXX - [a-zA-Z0-9] Len: 8 (Might be scope to reduce the charset but even so, large key-space)
+EEBrightBox-XXXXXX - [3 word with hyphens]
+BrightBox-XXXXXX - [??] Len: 8
+TIM_PN51T_XXXX - [0-9] Len: 8 - WPS pin is 12345670... and WPS can't be disabled...
+BTHub6 - [0-9a-zA-Z] Len: 10 or 12
+Telecom-XXXXXXXX - [not-sure]
+3Wireless-Modem-XXXX - [0-9A-F] Len: ??
