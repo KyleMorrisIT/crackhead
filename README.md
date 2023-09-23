@@ -1,11 +1,11 @@
 # CRACKHEAD 
-## (the default cracker)
+> (the default cracker)
 
 Crackhead is a Python script that simplifies the process of cracking default router passwords using Hashcat. It provides a menu-driven interface to select the target router and execute the appropriate Hashcat command. It works in tandem with the glob python module to grab .hc22000 files in the directory and execute a hashcat command appropriate to the keyspace that the particular default utilizes. This is based on the keyspace research conducted by Seytonic in 2016 https://github.com/3mrgnc3/RouterKeySpaceWordlists. Many of these naming conventions are still in use today, and this project was created to demonstrate the insecurity of such devices and provide some automation for fellow pentesters and ethical hackers.
 
 **Disclaimer: This tool is for research and educational purposes only. The author of this software is not responsible for any misuse or malicious use of this tool. Please use it responsibly and only on networks and systems that you are authorized to access. Unauthorized access to computer systems and networks is illegal.**
 
-## Requirements
+> Requirements
 
 - Python 3.x
 - pip install glob
@@ -13,7 +13,7 @@ Crackhead is a Python script that simplifies the process of cracking default rou
 - Hashcat installed and configured
 - .hc22000 files (Hashcat hashes) in the current directory
 
-## Usage
+> Usage
 
 1. Clone or download this repository to your local machine.
 2. Ensure you have Hashcat installed and configured properly.
