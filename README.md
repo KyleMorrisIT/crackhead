@@ -7,8 +7,8 @@ Crackhead is a Python script that simplifies the process of cracking default rou
 **Disclaimer: This tool is for research and educational purposes only. The author of this software is not responsible for any misuse or malicious use of this tool. Please use it responsibly and only on networks and systems that you are authorized to access. Unauthorized access to computer systems and networks is illegal.**
 
 > Requirements
--`pip install glob`
--`pip install colorama`
+<br />`pip install glob`
+<br />`pip install colorama`
 - Python 3.x
 - Hashcat installed and configured
 - .hc22000 files (Hashcat hashes) in the current directory
