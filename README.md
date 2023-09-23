@@ -9,8 +9,8 @@ Crackhead is a Python script that simplifies the process of cracking default rou
 > Requirements
 
 - Python 3.x
-``pip install glob
-``pip install colorama
+`pip install glob`
+`pip install colorama`
 - Hashcat installed and configured
 - .hc22000 files (Hashcat hashes) in the current directory
 
